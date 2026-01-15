@@ -66,9 +66,13 @@ Data preprocessing includes missing-value handling, categorical encoding, and be
 
 ## Project Structure
 ├── data/        # Raw and processed datasets
+
 ├── notebooks/   # EDA, modeling, and optimization notebooks
+
 ├── figure/      # Visualizations
+
 ├── report/      # Final project report (PDF)
+
 └── LICENSE
 
 
